@@ -13,29 +13,27 @@
 }
 .header{
     border-style:solid;
-    border-width:2px;
+    border-width:0px;
     background-color:#BF9F30 ;
-    position: fixed;
     width:100%;
    
 }
 .nav{
     border-style:solid;
-    border-width:2px;
+    border-width:0px;
     background-color:#BF9F30;
 	width:100%;
 	float:left;
-	margin-top:80px;
 }
 .sidebar{
     border-style:solid;
-    border-width:2px;
+    border-width:0px;
     background-color:#6CAB2B ;
 	width:600px;
 }
 .content{
     border-style:solid;
-    border-width:2px;
+    border-width:0px;
     background-color:#BF9F30;
 	width:600px;
 }
