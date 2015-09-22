@@ -15,25 +15,25 @@ display:inline;
 }
 .header{
     border-style:solid;
-    border-width:0px;
+    border-width:1px;
     background-color:#BF9F30 ;
     width:100%;
    
 }
 .nav{
     border-style:solid;
-    border-width:0px;
+    border-width:1px;
     background-color:#6CAB2B;
 	width:100%;}
 .sidebar{
     border-style:solid;
-    border-width:0px;
+    border-width:1px;
     background-color:#6CAB2B ;
 	width:20%;
 }
 .content{
     border-style:solid;
-    border-width:0px;
+    border-width:1px;
     background-color:#BF9F30;
 	width:75%;
 }
