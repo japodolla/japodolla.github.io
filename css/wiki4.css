@@ -16,15 +16,20 @@ display:inline;
 .header{
     border-style:solid;
     border-width:1px;
+    border-style:solid;
+    border-color
+
     background-color:#BF9F30 ;
     width:100%;
    
 }
 .nav{
     border-style:solid;
+    border-bottom: 2px dashed #ffffff;
     border-width:1px;
     background-color:#6CAB2B;
 	width:100%;}
+	
 .sidebar{
     border-style:solid;
     border-width:1px;
