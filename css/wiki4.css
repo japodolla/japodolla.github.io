@@ -11,13 +11,14 @@ display:inline;
 .wrap {
 	width: 60%;
 	border-width: 3px;
+	margin: 0 auto;
 	
 }
 .header{
     border-style:solid;
     border-width:1px;
     border-style:solid;
-    border-color
+    border-color:#000000;
 
     background-color:#BF9F30 ;
     width:100%;
