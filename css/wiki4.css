@@ -29,8 +29,13 @@ display:inline;
     border-bottom: 2px dashed #ffffff;
     border-width:1px;
     background-color:#6CAB2B;
-	width:100%;}
-	
+	width:100%;
+}
+	.nav ul li {
+		padding: 5px;
+		
+	}
+	}
 .sidebar{
     border-style:solid;
     border-width:1px;
@@ -42,11 +47,12 @@ display:inline;
     border-width:1px;
     background-color:#BF9F30;
 	width:74%;
+	
 }
 
 .content ul li {
 	list-style-type:none;
-	
+	text-aligh: center;
 	
 }
 
