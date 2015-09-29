@@ -1,22 +1,32 @@
+.main-content{
+background-color:bisque;    
+}
+
 body {
-  text-aliagn center;
+    
+    font-size: 16px;
+    line-height: 1.45;
+    font-family: "Georgia", serif; color: #333
+    background-image: flower.jpg;
+    width:800px;
+    margin: 0 auto;
 }
 
-h1{
-
+h1, h2, h3{
+ background-color:teal;
+    padding-bottom: 20px;
+    
 }
 
-h2 {
-  
+p {
+    background-color: #996633;
+    padding-bottom: 35px;
+    padding-top: 30px;
+    padding-left: 20px;
+    border-width: thin;
+    border-color: black;
+    
+   
+    
 }
-
-h3{
-  
-}
-
-}
-p{
-max-width:;
-}
-
 
