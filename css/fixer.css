@@ -1,0 +1,30 @@
+body {
+    background: ;
+    background-color: darkgrey;
+    color: black;
+    font-size: 16px;
+     line-height: 1.45;
+    width:800px;
+    margin:0 auto;
+    border: 1px solid black;
+    font-family: "Georgia", serif; color: #333;
+    padding: 0 20px;
+}
+
+h2{
+    Font-size:18px;
+    
+}
+table, tr, td, th {
+  border-collapse: collapse;
+    border: 1px solid black;
+padding: 10px;
+}
+
+.bacon-info {
+    font-family: "Georgia", serif; color: #333;
+}
+
+.bacon-answer {
+    font-family: "Georgia", serif; color: #333;
+}
