@@ -40,10 +40,10 @@ display:inline;
     border-style:solid;
     border-width:1px;
     background-color:#6CAB2B ;
-	width:23%;
+	width:auto;
     position: absolute;
 
-    height: 69%;
+
 }
 .content{
     border-style:solid;
