@@ -2,8 +2,6 @@ body {
 
 }
 
-.aside, .content{
-    }
 
 .top-content{
      clear:both;
@@ -35,7 +33,7 @@ margin: 0 auto;
 }
 
 .description {
-    clear:both;
+    clear:right;
     padding: 0 10px;
 }
 
@@ -59,8 +57,7 @@ margin: 0 auto;
 
 img {
     float: left;
-    padding-left: 10px;
-    padding-top: 10px;
+  margin: 0 20px;
 
 }
 
