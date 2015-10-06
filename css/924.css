@@ -44,7 +44,6 @@ margin: 0 auto;
     position: absolute;
     padding-top: 15px;
     padding-right: 10px;
-    height: 66%;
     clear:both;
 }
 
@@ -54,9 +53,8 @@ margin: 0 auto;
 
 .content{
     background-color: lightgreen;
-    width:84%;
-    padding-bottom: 15px;
-    padding-top: 5px;
+    width:85%;
+    float: left;
  
 }
 
