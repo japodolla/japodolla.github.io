@@ -40,10 +40,7 @@ display:inline;
     border-style:solid;
     border-width:1px;
     background-color:#6CAB2B ;
-	width:auto;
-    position: absolute;
-
-
+	width:23%;
 }
 .content{
     border-style:solid;
@@ -58,6 +55,3 @@ display:inline;
 	text-align: center;
 	
 }
-
-
-    
