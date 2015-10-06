@@ -34,7 +34,7 @@ background-color: pink;
     position: absolute;
     padding-top: 15px;
     padding-right: 10px;
-    height: 69%;
+    height: 75%;
 }
 
 .aside ul li {
@@ -44,6 +44,7 @@ background-color: pink;
 .content{
     background-color: lightgreen;
     width:84%;
+    height:75%;
     padding-bottom: 15px;
     padding-top: 5px;
  
