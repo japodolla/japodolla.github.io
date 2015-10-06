@@ -34,7 +34,10 @@ margin: 0 auto;
 
 }
 
-
+.description {
+    clear:both;
+    padding: 10px 20px 0;
+}
 
 .aside{
     background-color: #FFFF99;
